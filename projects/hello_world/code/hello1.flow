@@ -1,4 +1,0 @@
-Flow hello1
-     Basepath ""
-x = RRF "page.ftlh" 
-Finish true
