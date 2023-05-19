@@ -1,4 +1,0 @@
-Flow com.acme.basic_authn
-     Basepath ""
-Log "@info hi"
-Finish false
